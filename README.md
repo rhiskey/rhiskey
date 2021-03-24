@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]
+<!--[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]-->
