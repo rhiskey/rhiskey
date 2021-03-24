@@ -8,9 +8,9 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
 
 <br>
 
@@ -18,22 +18,24 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
+[![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
+[![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
+[![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
+[![spacex-news](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
+[![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
+[![nodejs-gql-ts](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
+[![spigot2vk](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
+[![Instagive](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
+
+[![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)])(https://github.com/rhiskey/relaybot-Public)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
