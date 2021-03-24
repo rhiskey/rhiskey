@@ -1,10 +1,8 @@
-### Welcome 👋
+### Greetings 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/)
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
-
 <br>
 
 ## &#x1f4c8; GitHub Stats
