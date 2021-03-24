@@ -18,21 +18,22 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
