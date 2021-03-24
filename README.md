@@ -26,18 +26,23 @@
 
 [![spacex-news](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
 
-
 [![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
 [![nodejs-gql-ts](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
 
-[![spigot2vk](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
-
+<details>
+<summary>More Projects</summary>
+  <br>
+  
 [![Instagive](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
+
+[![spigot2vk](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
 
 [![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/relaybot-Public)
 
 [![Spigot2MC-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpigotMc2Vk-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpigotMc2Vk-Public)
+
+</details>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
