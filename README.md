@@ -20,8 +20,6 @@
 
 [![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
 
-[![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
-
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
 
 [![spacex-news](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
@@ -35,6 +33,8 @@
   <br>
   
 [![Instagive](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
+
+[![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
 
 [![spigot2vk](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
 
