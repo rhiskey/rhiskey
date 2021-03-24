@@ -50,6 +50,7 @@
 ![](https://img.shields.io/badge/Code-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Entity-Framework-informational?style=flat&logo=entityframework&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
