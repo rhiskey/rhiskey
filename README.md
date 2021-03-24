@@ -1,6 +1,8 @@
 ### Greetings 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/)
+
+[![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
 <br>
