@@ -37,6 +37,8 @@
 
 [![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/relaybot-Public)
 
+[![Spigot2MC-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpigotMc2Vk-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpigotMc2Vk-Public)
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
