@@ -3,9 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/)
 
 [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -75,14 +72,15 @@
   <br>
 </details>
 
+- 🔭 I’m currently working on SPBExchange
+- 🌱 I’m currently learning ASP.NET MVC, ReactJS
+- 👯 I’m looking to collaborate on pet projects, startaps
+- - 📫 How to reach me: https://discord.gg/mx4MwTM54T
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **rhiskey/rhiskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SPBExchange
 - 🌱 I’m currently learning ASP.NET MVC, ReactJS
 - 👯 I’m looking to collaborate on pet projects, startaps
@@ -94,3 +92,5 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
