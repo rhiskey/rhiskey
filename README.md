@@ -35,7 +35,7 @@
 
 [![Instagive](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
 
-[![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)])(https://github.com/rhiskey/relaybot-Public)
+[![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/relaybot-Public)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
