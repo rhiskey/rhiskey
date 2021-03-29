@@ -79,7 +79,8 @@
 
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)(https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Debian&logoColor=white&color=4AB197)(https://github.com/anuraghazra/github-readme-stats)
+
   <br>
 </details>
 
