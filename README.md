@@ -8,7 +8,7 @@
 
 <br>
 
-[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)]()
+[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
 
