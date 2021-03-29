@@ -8,7 +8,7 @@
 
 <br>
 
-[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
 
@@ -79,7 +79,7 @@
 
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)(https://github.com/anuraghazra/github-readme-stats)
   <br>
 </details>
 
