@@ -18,6 +18,9 @@
 
 <br>
 
+[![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)]
+(https://github.com/rhiskey/HVMDash)
+
 [![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
 
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
