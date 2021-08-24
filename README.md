@@ -87,7 +87,7 @@
   <br>
 </details>
 
-- 🔭 I’m currently working on SPBExchange
+- 🔭 I’m currently working on SPB Exchange
 - 🌱 I’m currently learning ASP.NET MVC, ReactJS
 - 👯 I’m looking to collaborate on pet projects, startaps
 - - 📫 How to reach me: https://discord.gg/mx4MwTM54T
