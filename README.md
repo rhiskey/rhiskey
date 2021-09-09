@@ -4,6 +4,8 @@
 
 [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)
 
+<a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
