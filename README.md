@@ -89,10 +89,10 @@
   <br>
 </details>
 
-- 🔭 I’m currently working on SPB Exchange
-- 🌱 I’m currently learning ASP.NET MVC, ReactJS
+- 🔭 I’m currently working on SPB Exchange https://spbexchange.com/
+- 🌱 I’m currently learning ASP.NET MVC, Blazor, Android SDK, Kotlin
 - 👯 I’m looking to collaborate on pet projects, startaps
-- - 📫 How to reach me: https://discord.gg/mx4MwTM54T
+- - 📫 How to reach me: https://t.me/rhiskey
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
