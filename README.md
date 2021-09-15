@@ -54,14 +54,14 @@
 ![](https://img.shields.io/badge/Code-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Entity-Framework-informational?style=flat&logo=entityframework&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 
 
 <details>
@@ -85,6 +85,8 @@
 ![](https://img.shields.io/badge/Tools-YouTrack-informational?style=flat&logo=youtrack&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
+  
+![](https://img.shields.io/badge/Tools-TeamCity-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
   
 ![](https://img.shields.io/badge/Tools-AndroidSDK-informational?style=flat&logo=youtrack&logoColor=white&color=4AB197)
 
