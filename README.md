@@ -20,6 +20,10 @@
 
 <br>
 
+[![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Pattern)
+
+[![MFBAdmin](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=MFBAdmin&show_icons=true&theme=onedark)](https://github.com/rhiskey/MFBAdmin)
+
 [![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)](https://github.com/rhiskey/HVMDash)
 
 [![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
