@@ -53,20 +53,20 @@
 </details>
 
 ## 💼 Skills
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Entity-Framework-informational?style=flat&logo=entityframework&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 
 
 <details>
@@ -100,8 +100,8 @@
   <br>
 </details>
 
-- 🔭 I’m currently working on SPB Exchange https://spbexchange.com/
-- 🌱 I’m currently learning ASP.NET MVC, Blazor, Android SDK, Kotlin
+- 🔭 I’m currently working on @blackbird-devs
+- 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, Data Science
 - 👯 I’m looking to collaborate on pet projects, startaps
 - - 📫 How to reach me: https://t.me/rhiskey
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
