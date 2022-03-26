@@ -20,6 +20,8 @@
 
 <br>
 
+[![SpotyTG](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpotyTG&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpotyTG)
+
 [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
 
 [![MFBAdmin](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=MFBAdmin&show_icons=true&theme=onedark)](https://github.com/rhiskey/MFBAdmin)
