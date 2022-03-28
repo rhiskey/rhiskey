@@ -8,6 +8,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
+[![Visits](https://badges.pufler.dev/visits/rhiskey/rhiskey)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rhiskey)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/rhiskey/rhiskey)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/rhiskey)](https://badges.pufler.dev)
+
 <br>
 
 [![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)
@@ -21,6 +26,7 @@
 <br>
 
 [![SpotyTG](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpotyTG&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpotyTG)
+[<img src="https://github.com/Volorf/Badges/blob/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.png">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
 
 [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
 
