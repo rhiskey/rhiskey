@@ -6,7 +6,7 @@
 
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fspotyvk)](https://telegram.dog/spotyvk)
 
-![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)
+[![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
 
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
