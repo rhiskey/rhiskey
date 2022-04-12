@@ -6,6 +6,8 @@
 
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fspotyvk)](https://telegram.dog/spotyvk)
 
+[<img src="https://github.com/Volorf/Badges/blob/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.png">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+
 [![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
 
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
@@ -36,7 +38,6 @@ My Tether USD (ETH Network) address is:
 <br>
 
 [![SpotyTG](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpotyTG&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpotyTG)
-[<img src="https://github.com/Volorf/Badges/blob/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.png">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
 
 [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
 
