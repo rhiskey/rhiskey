@@ -27,7 +27,9 @@
 
 My Tether USD (ETH Network) address is:
 
-![0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32](https://i.ibb.co/YXMDnPw/Screenshot-from-2022-04-12-05-40-58.png)
+[![USDT (ERC20)](https://i.ibb.co/YXMDnPw/Screenshot-from-2022-04-12-05-40-58.png)](https://etherscan.io/address/0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32)
+
+0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32
 
 ## 📌 Pinned Repositories
 
