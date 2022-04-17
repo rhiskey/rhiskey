@@ -4,7 +4,13 @@
 
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[<img src="https://github.com/Volorf/Badges/blob/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.png">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+---
+
+#### SpotyVK: music export app
+
+<img src="https://sun9-28.userapi.com/impg/RAy0Q81KjLtaJclZp5qQ7QF7zwkcP_7wz56V1A/ntU3Y3Amcag.jpg?size=513x513&quality=95&sign=d6ac5efe66c01f3c2ee8368af71fb8a4&type=album" alt="SpotyVK logo" width="128" height="128"></img> [<img src="https://github.com/Volorf/Badges/blob/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.png">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+
+---
 
 Buy me a coffe ☕
 |₿ Crypto | Network | Address |
@@ -26,32 +32,20 @@ Buy me a coffe ☕
 
 <br>
 
-
 ## 📌 Pinned Repositories
 
 <br>
 
 [![SpotyTG](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpotyTG&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpotyTG)
 
-[![Cipher](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=CipherEverything&show_icons=true&theme=onedark)](https://github.com/rhiskey/CipherEverything)
+[![Cipher](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=CipherEverything&show_icons=true&theme=onedark)](https://github.com/rhiskey/CipherEverything) [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
 
-[![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
+[![SpotyVK Bot](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_vkbot&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_vkbot) [![SpotyVK Backend](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_backend&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_backend)
 
-[![SpotyVK Bot](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_vkbot&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_vkbot)
-
-[![SpotyVK Backend](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_backend&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_backend)
-
-[![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)](https://github.com/rhiskey/HVMDash)
-
-[![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
+[![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)](https://github.com/rhiskey/HVMDash) 
 
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
 
-[![spacex-news](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
-
-[![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
-
-[![nodejs-gql-ts](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
 
 <details>
 <summary>More Projects</summary>
@@ -68,6 +62,14 @@ Buy me a coffe ☕
 [![relaybot-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=relaybot-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/relaybot-Public)
 
 [![Spigot2MC-Public](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpigotMc2Vk-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpigotMc2Vk-Public)
+  
+[![aspReactFrontSSR](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=aspReactFrontSSR&show_icons=true&theme=onedark)](https://github.com/rhiskey/aspReactFrontSSR)
+  
+[![nodejs-gql-ts](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=nodejs-gql-ts-Public&show_icons=true&theme=onedark)](https://github.com/rhiskey/nodejs-gql-ts-Public)
+  
+[![spacex-news](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spacex-news&show_icons=true&theme=onedark)](https://github.com/rhiskey/spacex-news)
+
+[![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
 </details>
 
