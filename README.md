@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY) [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fspotyvk)](https://telegram.dog/spotyvk) [![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY) [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fspotyvk)](https://telegram.dog/spotyvk) 
 
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
@@ -125,6 +125,7 @@ Buy me a coffe ☕
 - 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, Data Science
 - 👯 I’m looking to collaborate on pet projects, startaps
 - - 📫 How to reach me: https://t.me/rhiskey
+- - [![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
