@@ -122,7 +122,7 @@ Buy me a coffe ☕
 </details>
 
 - 🔭 I’m currently working on https://github.com/blackbird-devs
-- 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, Data Science
+- 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
 - 👯 I’m looking to collaborate on pet projects, startaps
 - - 📫 How to reach me: https://t.me/rhiskey
 - - [![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
