@@ -1,6 +1,11 @@
 ### Greetings 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY) [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fspotyvk)](https://telegram.dog/spotyvk) 
+<!--
+![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
+-->
+
+
 
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
