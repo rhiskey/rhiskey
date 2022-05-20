@@ -45,6 +45,8 @@ Buy me a coffe ☕
 
 [![Cipher](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=CipherEverything&show_icons=true&theme=onedark)](https://github.com/rhiskey/CipherEverything) [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
 
+[![Contacts](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=ContactsSUI&show_icons=true&theme=onedark)](https://github.com/rhiskey/ContactsSUI)
+
 [![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)](https://github.com/rhiskey/HVMDash) 
 
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
