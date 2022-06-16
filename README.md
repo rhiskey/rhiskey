@@ -29,7 +29,6 @@ Buy me a coffe ☕
 [![Visits](https://badges.pufler.dev/visits/rhiskey/rhiskey)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rhiskey)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/rhiskey/rhiskey)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/rhiskey)](https://badges.pufler.dev)
 
 <br>
 
@@ -138,7 +137,6 @@ Buy me a coffe ☕
 - 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
 - 👯 I’m looking to collaborate on pet projects, startaps
 - - 📫 How to reach me: https://t.me/rhiskey
-- - [![Discord](https://dcbadge.vercel.app/api/shield/224961688963645441)](https://discord.gg/KypTa9p)
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
