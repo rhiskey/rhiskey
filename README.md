@@ -1,6 +1,8 @@
 ### Greetings 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
+
+<!-- [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)-->
 <!--
 ![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
 -->
@@ -17,12 +19,13 @@
 
 ---
 
+<!--
 Buy me a coffe ☕
 |₿ Crypto | Network | Address |
 |---|---|---|
 |💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
 |💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
-
+-->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -133,10 +136,14 @@ Buy me a coffe ☕
   <br>
 </details>
 
-- 🔭 I’m currently working on https://github.com/blackbird-devs
+- 🔭 I’m currently working as ent-r
 - 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
 - 👯 I’m looking to collaborate on pet projects, startaps
+
+<!-- 
 - - 📫 How to reach me: https://t.me/rhiskey
+-->
+
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
