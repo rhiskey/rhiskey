@@ -27,11 +27,13 @@ Buy me a coffe ☕
 |💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
 -->
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 [![Visits](https://badges.pufler.dev/visits/rhiskey/rhiskey)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rhiskey)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/rhiskey/rhiskey)](https://badges.pufler.dev)
+-->
 
 <br>
 
