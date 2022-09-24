@@ -144,9 +144,9 @@ Buy me a coffe ☕
 - 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
 - 👯 I’m looking to collaborate on pet projects, startaps
 
-<!-- 
-- - 📫 How to reach me: https://t.me/rhiskey
--->
+
+- - 📫 How to reach me: Discord: rhiskey#2088
+
 
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
 
