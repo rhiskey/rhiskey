@@ -9,10 +9,6 @@
 ![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
 -->
 
-
-
-<a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ---
 
 #### SpotyVK: music export app
@@ -166,3 +162,6 @@ Here are some ideas to get you started:
 <!--[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END --> 
+
+
+<a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
