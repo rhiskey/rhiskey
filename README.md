@@ -109,10 +109,6 @@ Buy me a coffe ☕
 <summary>More Skills</summary>
   <br>
 
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/DB-MSSQL-informational?style=flat&logo=mssql&logoColor=white&color=4AB197)
-  
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
     
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
@@ -136,12 +132,12 @@ Buy me a coffe ☕
   <br>
 </details>
 
-- 🔭 I’m currently working as ent-r
+- 🔭 I’m currently working on CYBERKOALA LLC
 - 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
 - 👯 I’m looking to collaborate on pet projects, startaps
 
 
-- - 📫 How to reach me: Discord: rhiskey#2088
+- - 📫 How to reach me: Discord: [CYBERKOALA](https://discord.gg/z2URPbccBX)
 
 
 <!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
