@@ -2,8 +2,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/:UCUpVfgd42h7pwZwCTcwjp8g)
 
- [![YouTube Badge](https://img.shields.io/youtube/views/gRaPhcgu_zQ?style=social)](https://www.youtube.com/channel/UCUpVfgd42h7pwZwCTcwjp8g)
+
 <!--
 ![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
 -->
