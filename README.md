@@ -128,8 +128,8 @@ Buy me a coffe ☕
 </details>
 
 - 🔭 I’m currently working on CYBERKOALA LLC
-- 🌱 I’m currently learning Swift, UIKit, SwiftUI, Android SDK, Kotlin, PyTorch, Keras, Tensorflow, Deep Learning frameworks
-- 👯 I’m looking to collaborate on pet projects, startaps
+- 🌱 I’m currently learning  SwiftUI, Android SDK, Kotlin
+- 👯 I’m looking to collaborate in any commercial project as well as start up
 
 
 -  📫 How to reach me: Discord: [CYBERKOALA](https://discord.gg/z2URPbccBX)
