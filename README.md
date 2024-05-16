@@ -1,10 +1,9 @@
 ### Greetings 👋
 
-<!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
--->
 
-<!-- [![YouTube Badge](https://img.shields.io/youtube/views/WZ2heMAIDZU?style=social)](https://www.youtube.com/watch?v=WZ2heMAIDZU&ab_channel=COOLDAY)-->
+
+ [![YouTube Badge](https://img.shields.io/youtube/views/gRaPhcgu_zQ?style=social)](https://www.youtube.com/channel/UCUpVfgd42h7pwZwCTcwjp8g)
 <!--
 ![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
 -->
@@ -18,11 +17,6 @@
 ---
 
 
-Buy me a coffe ☕
-|₿ Crypto | Network | Address |
-|---|---|---|
-|💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
-|💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
 
 <!--
 ## &#x1f4c8; GitHub Stats
@@ -58,6 +52,11 @@ Buy me a coffe ☕
 
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
 
+Buy me a coffe ☕
+|₿ Crypto | Network | Address |
+|---|---|---|
+|💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
+|💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
 
 <details>
 <summary>More Projects</summary>
