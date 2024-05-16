@@ -17,13 +17,12 @@
 
 ---
 
-<!--
+
 Buy me a coffe ☕
 |₿ Crypto | Network | Address |
 |---|---|---|
 |💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
 |💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
--->
 
 <!--
 ## &#x1f4c8; GitHub Stats
@@ -63,10 +62,7 @@ Buy me a coffe ☕
 <details>
 <summary>More Projects</summary>
   <br>
-  
-[![SpotyVK Bot](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_vkbot&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_vkbot) [![SpotyVK Backend](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spotytovkshare_backend&show_icons=true&theme=onedark)](https://github.com/rhiskey/spotytovkshare_backend)
-  
-[![Instagive](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=insta-give&show_icons=true&theme=onedark)](https://github.com/rhiskey/insta-give)
+
 
 [![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
   
