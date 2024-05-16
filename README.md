@@ -128,7 +128,7 @@ Buy me a coffe ☕
 </details>
 
 - 🔭 I’m currently working on CYBERKOALA LLC
-- 🌱 I’m currently learning  SwiftUI, Android SDK, Kotlin
+- 🌱 I’m currently learning C++, Vulkan, UE5, SwiftUI, Android SDK, Kotlin
 - 👯 I’m looking to collaborate in any commercial project as well as start up
 
 
