@@ -132,23 +132,9 @@ Buy me a coffe ☕
 - 👯 I’m looking to collaborate on pet projects, startaps
 
 
-- - 📫 How to reach me: Discord: [CYBERKOALA](https://discord.gg/z2URPbccBX)
+-  📫 How to reach me: Discord: [CYBERKOALA](https://discord.gg/z2URPbccBX)
 
 
-<!--[![rhiskey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhiskey)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--
-**rhiskey/rhiskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on SPBExchange
-- 🌱 I’m currently learning ASP.NET MVC, ReactJS
-- 👯 I’m looking to collaborate on pet projects, startaps
-- 🤔 I’m looking for help with neural networks
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]-->
 <!-- BLOG-POST-LIST:START -->
