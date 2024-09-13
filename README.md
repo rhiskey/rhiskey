@@ -66,7 +66,7 @@ Buy me a coffe ☕
 
 [![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
   
- [![MFBAdmin](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=MFBAdmin&show_icons=true&theme=onedark)](https://github.com/rhiskey/MFBAdmin)
+[![MFBAdmin](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=MFBAdmin&show_icons=true&theme=onedark)](https://github.com/rhiskey/MFBAdmin)
 
 [![spigot2vk](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=spigot2vk_admin&show_icons=true&theme=onedark)](https://github.com/rhiskey/spigot2vk_admin)
 
@@ -133,7 +133,7 @@ Buy me a coffe ☕
 - 👯 I’m looking to collaborate in any commercial project as well as start up
 
 
--  📫 How to reach me: Discord: [CYBERKOALA](https://discord.gg/z2URPbccBX)
+-  📫 How to reach me: [Talksy](https://talksy.tuchacloud.ru/servers/5f73af76-8d01-4374-8fbc-85b5abe5b575/channels/47f49b3b-6367-4b1a-873f-2124b504f703)
 
 
 
