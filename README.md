@@ -1,9 +1,12 @@
 ### Greetings 👋
 
+Check out our latest YouTube tutorial series here [@CooldayTutorials](https://www.youtube.com/@CooldayTutorials)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUpVfgd42h7pwZwCTcwjp8g) 
 
-[@CooldayTutorials](https://www.youtube.com/@CooldayTutorials)
+
+
+My portfolio:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
 
@@ -25,7 +28,21 @@
 
 ---
 
+Interested in multiplayer game development?
+I encorouge you to read my latest book: 
+### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
+published by CYBERKOALA LLC
 
+<a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
+<br>
+<br>
+
+[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
+
+<br>
+
+## 📌 Pinned Repositories
 
 <!--
 ## &#x1f4c8; GitHub Stats
@@ -34,22 +51,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/rhiskey)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/rhiskey/rhiskey)](https://badges.pufler.dev)
 -->
-
-Interested in Game Development?
-I encorouge you to read my latest book: 
-### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
-published by CYBERKOALA LLC
-
-<a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
-<br>
-
-<br>
-
-[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
-
-<br>
-
-## 📌 Pinned Repositories
 
 <br>
 
