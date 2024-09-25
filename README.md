@@ -29,6 +29,14 @@
 [![Updated Badge](https://badges.pufler.dev/updated/rhiskey/rhiskey)](https://badges.pufler.dev)
 -->
 
+Interested in Game Development?
+I encorouge you to read my latest book: 
+### Advanced Multiplayer Game Development with Unreal Engine 5	
+published by CYBERKOALA LLC
+
+<a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
+<br>
+
 <br>
 
 [![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
