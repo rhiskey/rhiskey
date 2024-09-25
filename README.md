@@ -16,7 +16,12 @@
 #### SpotyVK: music export app
 
 <img src="https://sun9-28.userapi.com/impg/RAy0Q81KjLtaJclZp5qQ7QF7zwkcP_7wz56V1A/ntU3Y3Amcag.jpg?size=513x513&quality=95&sign=d6ac5efe66c01f3c2ee8368af71fb8a4&type=album" alt="SpotyVK logo" width="128" height="128">
-</img> [<img src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/visual-identity_badges_880x572-1.width-375.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20240925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240925T113717Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=29e01098d64909ae9348eece6286d840dd0aadf7060b78a8e22109b6802a912e82428cec8c82c54e7b4824390080e2379ca29a49337caba31d327c3a7025af3653095d607b7b24c2c45ae25acb821091b4d0a624913e513f1024fb90a9826550dd5f44a46884125208327996eead28ed191cb7004f60cbcedff7618889f87d54841d74dc454c36f9380e972d755f2c6ba57968cba52c3b26a956d5467229a5aafda452277a2e0903566c3012b99d49f0d9728e85a744671b7921831114d4a1e5cc74e7311fb8c74236e50c9ad110e105c81f284f885ba48bc34cf70e56e0401932ef0d042dbf8aff81e02aabbf97a92720ed079b95579c629f8a8259a4999230">](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+</img> 
+
+[<img src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/visual-identity_badges_880x572-1.width-375.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20240925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240925T113717Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=29e01098d64909ae9348eece6286d840dd0aadf7060b78a8e22109b6802a912e82428cec8c82c54e7b4824390080e2379ca29a49337caba31d327c3a7025af3653095d607b7b24c2c45ae25acb821091b4d0a624913e513f1024fb90a9826550dd5f44a46884125208327996eead28ed191cb7004f60cbcedff7618889f87d54841d74dc454c36f9380e972d755f2c6ba57968cba52c3b26a956d5467229a5aafda452277a2e0903566c3012b99d49f0d9728e85a744671b7921831114d4a1e5cc74e7311fb8c74236e50c9ad110e105c81f284f885ba48bc34cf70e56e0401932ef0d042dbf8aff81e02aabbf97a92720ed079b95579c629f8a8259a4999230" />](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+
+[SpotyVK Google Play](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+
 
 ---
 
@@ -32,7 +37,7 @@
 
 Interested in Game Development?
 I encorouge you to read my latest book: 
-### Advanced Multiplayer Game Development with Unreal Engine 5	
+### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
 published by CYBERKOALA LLC
 
 <a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
