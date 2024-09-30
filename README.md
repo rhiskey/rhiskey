@@ -39,10 +39,6 @@ published by CYBERKOALA LLC
 
 <a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
 <br>
-<br>
-
-[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
 
 <br>
 
@@ -79,6 +75,12 @@ Buy me a coffe ☕
 |---|---|---|
 |💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
 |💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
+
+
+<br>
+
+[![Rhskey's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhiskey&show_icons=true&theme=onedark)](https://github.com/rhiskey/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhiskey&layout=compact&theme=onedark)]()
 
 <details>
 <summary>More Projects</summary>
