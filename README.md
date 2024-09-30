@@ -37,8 +37,8 @@ I encorouge you to read my latest book:
 ### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
 published by CYBERKOALA LLC
 
-<a href="https://books2read.com/cyberkoala"><img src="https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg" alt="Advanced Multiplayer Game Development with Unreal Engine 5" height="300px" align="left"></a>
-<br>
+[![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://books2read.com/cyberkoala)
+
 
 <br>
 
