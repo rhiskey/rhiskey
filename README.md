@@ -1,5 +1,9 @@
 ### Greetings 👋
 
+I am a seasoned game development tutor and the developer behind Cosmo Engine, an innovative game engine designed to enhance the creative process for developers. 
+With years of experience in the field, I am passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
+I also authored the book 'Advanced Multiplayer Game Development with Unreal Engine 5,' where I delve into cutting-edge techniques for building multiplayer experiences. My goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
+
 Check out our latest YouTube tutorial series here [@CooldayTutorials](https://www.youtube.com/@CooldayTutorials)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUpVfgd42h7pwZwCTcwjp8g) 
