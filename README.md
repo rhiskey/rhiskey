@@ -9,7 +9,11 @@ Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUpVfgd42h7pwZwCTcwjp8g) 
 
+[![](original-12759d6360adc85f54fc93e03dadbc86.mp4)](https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4)
 
+ <video width="320" height="240" controls>
+  <source src="https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4" type="video/mp4">
+</video
 
 My portfolio:
 
