@@ -49,7 +49,7 @@ Get book here:
 
 * [CyberKoala Shop](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
 * [Amazon](https://www.amazon.com/gp/product/B0DGTCTJ2G?tag=se)
-* [Kobo](https://www.kobo.com/ww/en/ebook/advanced-multiplayer-game-development-with-unreal-engine-5)
+* [Rakuten Kobo](https://www.kobo.com/ww/en/ebook/advanced-multiplayer-game-development-with-unreal-engine-5)
  
 <br>
 
