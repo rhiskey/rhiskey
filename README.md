@@ -4,6 +4,7 @@ I am a seasoned game development tutor and the developer behind Cosmo Engine, an
 With years of experience in the field, I am passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
 I also authored the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://books2read.com/cyberkoala), where I delve into cutting-edge techniques for building multiplayer experiences. My goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
 
+
 Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https://www.youtube.com/@CooldayTutorials)
 [@CyberKoalaLearn [EN]](https://www.youtube.com/channel/UCzt_iPOTmriJlUjnJNDmm_g)
 
@@ -44,7 +45,12 @@ published by CYBERKOALA LLC
 
 [![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://books2read.com/cyberkoala)
 
+Get book here: 
 
+* [CyberKoala Shop](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
+* [Amazon](https://www.amazon.com/gp/product/B0DGTCTJ2G?tag=se)
+* [Kobo](https://www.kobo.com/ww/en/ebook/advanced-multiplayer-game-development-with-unreal-engine-5)
+ 
 <br>
 
 ## 📌 Pinned Repositories
