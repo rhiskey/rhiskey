@@ -70,7 +70,7 @@ Get book here:
 
 [![InstagramRegressionAnalysis](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=InstagramRegressionAnalysis&show_icons=true&theme=onedark)](https://github.com/rhiskey/InstagramRegressionAnalysis)
 
-### Commertial Projects
+### Commercial Projects
 [![SpotyTG](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=SpotyTG&show_icons=true&theme=onedark)](https://github.com/rhiskey/SpotyTG)
 
 [![Cipher](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=CipherEverything&show_icons=true&theme=onedark)](https://github.com/rhiskey/CipherEverything) [![Swift Practical Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=Swift-Practical-Design-Patterns&show_icons=true&theme=onedark)](https://github.com/rhiskey/Swift-Practical-Design-Patterns)
