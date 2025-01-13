@@ -1,8 +1,9 @@
 ### Greetings 👋
 
-I am a seasoned game development tutor and the developer behind Cosmo Engine, an innovative game engine designed to enhance the creative process for developers. 
-With years of experience in the field, I am passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
-I also authored the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://books2read.com/cyberkoala), where I delve into cutting-edge techniques for building multiplayer experiences. My goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
+Seasoned game development tutor and the developer behind Cosmo Engine, an innovative game engine designed to enhance the creative process for developers. 
+With years of experience in the field, we at CyberKoala passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
+We also published the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://books2read.com/cyberkoala), where we delve into cutting-edge techniques for building multiplayer experiences. 
+Our goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
 
 
 Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https://www.youtube.com/@CooldayTutorials)
@@ -16,8 +17,7 @@ Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https
   <source src="https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4" type="video/mp4">
 </video
 
-My portfolio:
-
+Portfolio:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
 
 <!--
@@ -39,7 +39,7 @@ My portfolio:
 ---
 
 Interested in multiplayer game development?
-I encorouge you to read my latest book: 
+I encorouge you to read our latest book: 
 ### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
 published by CYBERKOALA LLC
 
@@ -162,12 +162,12 @@ Buy me a coffe ☕
   <br>
 </details>
 
-- 🔭 I’m currently working on CYBERKOALA LLC
-- 🌱 I’m currently learning C++, Vulkan, UE5, SwiftUI, Android SDK, Kotlin
-- 👯 I’m looking to collaborate in any commercial project as well as start up
+- 🔭 Currently working on CYBERKOALA LLC
+- 🌱 Currently learning C++, Vulkan, UE5, SwiftUI, Android SDK, Kotlin
+- 👯 Looking to collaborate in any commercial project as well as start up
 
 
--  📫 How to reach me: [Talksy](https://talksy.tuchacloud.ru/servers/5f73af76-8d01-4374-8fbc-85b5abe5b575/channels/47f49b3b-6367-4b1a-873f-2124b504f703)
+-  📫 How to reach us: [Talksy](https://talksy.ru/)
 
 
 
