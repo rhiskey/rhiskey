@@ -13,7 +13,7 @@ Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https
 Portfolio:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vladimir-kiselev-rhiskey/) 
 
-#### Talksy: high quality video calls & conferencing
+#### [Talksy - high quality video calls & conferencing](https://talksy.ru/)  
 [![https://talksy.ru/logo.png](https://talksy.ru/logo.png)](https://talksy.tuchacloud.ru/landing)
 [![](original-12759d6360adc85f54fc93e03dadbc86.mp4)](https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4)
 
