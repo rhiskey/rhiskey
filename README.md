@@ -167,7 +167,7 @@ Buy me a coffe ☕
 - 👯 Looking to collaborate in any commercial project as well as start up
 
 
--  📫 How to reach us: [Talksy](https://talksy.ru/)
+-  📫 Contact us: [Talksy](https://talksy.ru/)
 
 
 
