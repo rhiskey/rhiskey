@@ -2,7 +2,7 @@
 
 Seasoned game development tutor and the developer behind Cosmo Engine, an innovative game engine designed to enhance the creative process for developers. 
 With years of experience in the field, we at CyberKoala passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
-We also published the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://books2read.com/cyberkoala), where we delve into cutting-edge techniques for building multiplayer experiences. 
+We also published the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5), where we delve into cutting-edge techniques for building multiplayer experiences. 
 Our goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
 
 
@@ -47,12 +47,13 @@ I encorouge you to read our latest book:
 ### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
 published by CYBERKOALA LLC
 
-[![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://books2read.com/cyberkoala)
+[![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
 
 Get book here: 
 
 * [CyberKoala Shop](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
 * [Amazon](https://www.amazon.com/gp/product/B0DGTCTJ2G?tag=se)
+* [Litres](https://www.litres.ru/search/?q=advanced+multiplayer)
 * [Rakuten Kobo](https://www.kobo.com/ww/en/ebook/advanced-multiplayer-game-development-with-unreal-engine-5)
  
 <br>
