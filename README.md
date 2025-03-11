@@ -44,7 +44,7 @@ Invite to GamingHawks server:
 
 Interested in multiplayer game development?
 I encorouge you to read our latest book: 
-### [Advanced Multiplayer Game Development with Unreal Engine 5](https://books2read.com/cyberkoala)
+### [Advanced Multiplayer Game Development with Unreal Engine 5](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
 published by CYBERKOALA LLC
 
 [![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
