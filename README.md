@@ -6,7 +6,7 @@ We also published the book ['Advanced Multiplayer Game Development with Unreal E
 Our goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
 
 
-Check out our latest YouTube tutorial series here [@CooldayTutorials [RU]](https://www.youtube.com/@CooldayTutorials)
+Check out our latest YouTube tutorial series here
 [@CyberKoalaLearn [EN]](https://www.youtube.com/channel/UCzt_iPOTmriJlUjnJNDmm_g)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUpVfgd42h7pwZwCTcwjp8g) 
