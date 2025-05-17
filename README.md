@@ -126,7 +126,6 @@ Invite to GamingHawks server:
   <br>
 </details>
 
-- 🔭 Currently working on CYBERKOALA LLC
 - 🌱 Currently learning C++, Vulkan, UE5, SwiftUI, Android SDK, Kotlin
 - 👯 Looking to collaborate in any commercial project as well as start up
 
@@ -134,10 +133,6 @@ Invite to GamingHawks server:
 -  📫 Contact us: [Talksy](https://talksy.ru/)
 
 
-
-<!--[![Rhiskey's GitHub Banner](https://i.ibb.co/zXvDsyV/tgtqa-Q0-Kc-AY.jpg)]-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
 
   <p align="center">
         <img src="https://komarev.com/ghpvc/?username=rhiskey&color=blue&style=flat" alt="Profile Views">
