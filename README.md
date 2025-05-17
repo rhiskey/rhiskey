@@ -1,10 +1,6 @@
 ### Greetings 👋
 
-Seasoned game development tutor and the developer behind Cosmo Engine, an innovative game engine designed to enhance the creative process for developers. 
-With years of experience in the field, we at CyberKoala passionate about empowering others in game design and development, providing in-depth guidance and support to aspiring creators. 
-We also published the book ['Advanced Multiplayer Game Development with Unreal Engine 5'](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5), where we delve into cutting-edge techniques for building multiplayer experiences. 
-Our goal is to inspire and equip the next generation of game developers with the tools and knowledge they need to succeed.
-
+Seasoned game development tutor and the developer.
 
 Check out our latest YouTube tutorial series here
 [@CyberKoalaLearn [EN]](https://www.youtube.com/channel/UCzt_iPOTmriJlUjnJNDmm_g)
@@ -17,15 +13,6 @@ Check out our latest YouTube tutorial series here
 
 Invite to GamingHawks server:
 [GamingHawks](https://talksy.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
-
- <video width="320" height="240" controls>
-  <source src="https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4" type="video/mp4">
-</video
-
-
-<!--
-![rhiskey](https://road-to-kaggle-grandmaster.vercel.app/api/simple/rhiskey)
--->
 
 ---
 
@@ -40,22 +27,6 @@ Invite to GamingHawks server:
 
 
 ---
-
-Interested in multiplayer game development?
-I encorouge you to read our latest book: 
-### [Advanced Multiplayer Game Development with Unreal Engine 5](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
-published by CYBERKOALA LLC
-
-[![Advanced Multiplayer Game Development with Unreal Engine 5](https://m.media-amazon.com/images/I/71pJctmGIlL._UF1000,1000_QL80_FMwebp_.jpg)](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
-
-Get book here: 
-
-* [CyberKoala Shop](https://cyberkoalastudios.com/products/advanced-multiplayer-game-development-with-unreal-engine-5)
-* [Amazon](https://www.amazon.com/gp/product/B0DGTCTJ2G?tag=se)
-* [Litres](https://www.litres.ru/search/?q=advanced+multiplayer)
-* [Rakuten Kobo](https://www.kobo.com/ww/en/ebook/advanced-multiplayer-game-development-with-unreal-engine-5)
- 
-<br>
 
 ## 📌 Pinned Repositories
 
@@ -84,12 +55,6 @@ Get book here:
 [![HVMDash](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=HVMDash&show_icons=true&theme=onedark)](https://github.com/rhiskey/HVMDash) 
 
 [![vkaudioposter-ef](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter-ef&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter-ef)
-
-Buy me a coffe ☕
-|₿ Crypto | Network | Address |
-|---|---|---|
-|💵 USDC, USDT| ETH/BSC/MATIC |`0xcc2eBD6c5b17b4595d7be25089BAaE5d91b8Ab32`|
-|💵 USDC, USDT| SOL | `5kWq3NWxJmUtXVtcqwaNZnLSPosS4rja4ZNB4Mm7MW6j`|
 
 
 <br>
