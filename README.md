@@ -141,4 +141,6 @@ Invite to GamingHawks server:
 
 [![](https://visitcount.itsvg.in/api?id=whiskey&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
+<!--
 <a href="https://stackoverflow.com/users/11370621/rhiskey"><img src="https://stackoverflow.com/users/flair/11370621.png" width="208" height="58" alt="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rhiskey at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+-->
