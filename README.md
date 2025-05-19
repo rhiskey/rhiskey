@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-Seasoned game development tutor and the developer.
+Game development tutor and author.
 
 #### [Talksy - high quality video calls & conferencing](https://talksy.ru/)  
 [![https://talksy.ru/hero_og.png](https://talksy.ru/logo.png)](https://talksy.ru/landing)
