@@ -4,8 +4,7 @@ Game development tutor and author.
 
 Our products:
 #### [Talksy - high quality video calls & conferencing](https://talksy.ru/landing)  
-[![https://talksy.ru/hero_og.png](https://talksy.ru/logo.png)](https://talksy.ru/landing)
-[![](original-12759d6360adc85f54fc93e03dadbc86.mp4)](https://github.com/rhiskey/rhiskey/blob/3c024ad791646ae316216008171f157c5e9b02e2/original-12759d6360adc85f54fc93e03dadbc86.mp4)
+[![https://talksy.ru/hero_og.png](https://talksy.ru/logo.png)](https://talksy.ru/
 
 Invite to GamingHawks server:
 [GamingHawks](https://talksy.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
