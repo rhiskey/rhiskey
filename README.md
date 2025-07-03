@@ -3,11 +3,11 @@
 Game development tutor and author.
 
 Our products:
-#### [Talksy - high quality video calls & conferencing](https://talksy.ru/landing)  
- [![https://talksy.ru/hero_og.png](https://talksy.ru/logo.png)](https://talksy.ru/)
+#### [CyberKoala Calls - high quality video calls & conferencing](https://talksy.ru/landing)  
+ [![https://calls.cyberkoala.ru/hero_og.png](https://calls.cyberkoala.ru/logo.png)](https://calls.cyberkoala.ru/)
 
 Invite to GamingHawks server:
-[GamingHawks](https://talksy.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
+[GamingHawks](https://calls.cyberkoala.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
 
 ---
 
