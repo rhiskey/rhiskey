@@ -41,6 +41,7 @@ Our products:
   <img src="https://github-profile-trophy.vercel.app?username=rhiskey&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<!--
 ###
 
 <picture>
@@ -57,6 +58,8 @@ Our products:
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
+
+-->
 
 ---
 
@@ -118,28 +121,7 @@ Our products:
 [![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
 </details>
-
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-</div>
-
+  
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=4AB197)
@@ -156,6 +138,23 @@ Our products:
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
 <details>
 <summary>More Skills</summary>
@@ -167,16 +166,12 @@ Our products:
 
 ![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMq&logoColor=white&color=4AB197)
     
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
-
+ 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Tools-YouTrack-informational?style=flat&logo=youtrack&logoColor=white&color=4AB197)
-
+ 
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
   
-![](https://img.shields.io/badge/Tools-TeamCity-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
-  
+ 
 ![](https://img.shields.io/badge/Tools-AndroidSDK-informational?style=flat&logo=youtrack&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Debian&logoColor=white&color=4AB197)(https://github.com/anuraghazra/github-readme-stats)
@@ -188,7 +183,7 @@ Our products:
 - 👯 Looking to collaborate in any commercial project as well as start up
 
 
--  📫 Contact us: [Talksy](https://talksy.ru/)
+-  📫 Contact us: [CyberKoala Calls](https://calls.cyberkoala.ru/)
 
 
 
