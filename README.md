@@ -4,11 +4,13 @@ Game development tutor and author.
 
 
 Our products:
-#### [CyberKoala Calls - high quality video calls & conferencing](https://talksy.ru/landing)  
+
 <div align="center">
  <a href="https://ccalls.site" target="_blank">
   <img src="https://calls.cyberkoala.ru/logo.png"  height="120" alt="cyberkoala calls logo"  >
  </a>
+ 
+ #### [CyberKoala Calls - high quality video calls & conferencing](https://talksy.ru/landing)  
  
  Invite to GamingHawks server:
 
