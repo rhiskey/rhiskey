@@ -224,37 +224,16 @@ Our products:
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 
-
+###
  
 <details>
 <summary>More Skills</summary>
-  <br>
 
-![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
-    
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMq&logoColor=white&color=4AB197)
-    
- 
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
- 
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)
-  
- 
-![](https://img.shields.io/badge/Tools-AndroidSDK-informational?style=flat&logo=youtrack&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Debian&logoColor=white&color=4AB197)(https://github.com/anuraghazra/github-readme-stats)
-
-  <br>
 </details>
 
-- 🌱 Currently learning C++, Vulkan, UE5, SwiftUI, Android SDK, Kotlin
-- 👯 Looking to collaborate in any commercial project as well as start up
-
-
+- 🌱 Currently learning C++, Vulkan, UE5, SwiftUI;
+- 👯 Looking to collaborate in any commercial project.
 -  📫 Contact us: [CyberKoala Calls](https://calls.cyberkoala.ru/)
-
 
 
   <p align="center">
