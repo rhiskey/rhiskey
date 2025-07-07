@@ -1,25 +1,62 @@
-### Greetings 👋
+<h1 align="center">Greetings 👋</h1>
 
 Game development tutor and author.
 
+[![My Skills](https://skillicons.dev/icons?i=apple,bsd,c,cs,cpp,cmake,docker,electron,express,git,go,godot,html,java,js,kubernetes,latex,laravel,lua,astro,blender,&perline=3)](https://skillicons.dev)
+
+
 Our products:
 #### [CyberKoala Calls - high quality video calls & conferencing](https://talksy.ru/landing)  
- [![https://calls.cyberkoala.ru/hero_og.png](https://calls.cyberkoala.ru/logo.png)](https://calls.cyberkoala.ru/)
+<div align="center">
+ <a href="https://ccalls.site" target="_blank">
+  <img src="https://calls.cyberkoala.ru/logo.png"  height="120" alt="cyberkoala calls logo"  >
+ </a>
+ 
+ Invite to GamingHawks server:
 
-Invite to GamingHawks server:
-[GamingHawks](https://calls.cyberkoala.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
+ [Join GamingHawks server](https://calls.cyberkoala.ru/invite/0729d10b-3bd9-499b-8530-3d7cc64d3c05)
+</div>
 
----
-
+<!--
 #### SpotyVK: music export app
-
-<img src="https://sun9-28.userapi.com/impg/RAy0Q81KjLtaJclZp5qQ7QF7zwkcP_7wz56V1A/ntU3Y3Amcag.jpg?size=513x513&quality=95&sign=d6ac5efe66c01f3c2ee8368af71fb8a4&type=album" alt="SpotyVK logo" width="128" height="128">
+<div align="center">
+ <img src="https://sun9-28.userapi.com/impg/RAy0Q81KjLtaJclZp5qQ7QF7zwkcP_7wz56V1A/ntU3Y3Amcag.jpg?size=513x513&quality=95&sign=d6ac5efe66c01f3c2ee8368af71fb8a4&type=album" alt="SpotyVK logo" width="128" height="128">
 </img> 
 
-<!-- [<img src="https://storage.googleapis.com/pe-portal-consumer-prod-wagtail-static/images/visual-identity_badges_880x572-1.width-375.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wagtail%40pe-portal-consumer-prod.iam.gserviceaccount.com%2F20240925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240925T113717Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=29e01098d64909ae9348eece6286d840dd0aadf7060b78a8e22109b6802a912e82428cec8c82c54e7b4824390080e2379ca29a49337caba31d327c3a7025af3653095d607b7b24c2c45ae25acb821091b4d0a624913e513f1024fb90a9826550dd5f44a46884125208327996eead28ed191cb7004f60cbcedff7618889f87d54841d74dc454c36f9380e972d755f2c6ba57968cba52c3b26a956d5467229a5aafda452277a2e0903566c3012b99d49f0d9728e85a744671b7921831114d4a1e5cc74e7311fb8c74236e50c9ad110e105c81f284f885ba48bc34cf70e56e0401932ef0d042dbf8aff81e02aabbf97a92720ed079b95579c629f8a8259a4999230" />](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
--->
 [SpotyVK Google Play](https://play.google.com/store/apps/details?id=com.rhiskey.spoty2vkshare)
+</div>
+-->
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vladimircyberkoalaru" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <img src="https://calls.cyberkoala.ru/logo.png" height="25" alt="calls logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rhiskey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rhiskey&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
 
 ---
 
@@ -81,6 +118,27 @@ Invite to GamingHawks server:
 [![react-redux-todo](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=react-redux-todo&show_icons=true&theme=onedark)](https://github.com/rhiskey/react-redux-todo)
 
 </details>
+
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=node&logoColor=white&color=4AB197)
