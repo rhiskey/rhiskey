@@ -105,7 +105,7 @@ Our products:
 
 <details>
 <summary>More Projects</summary>
-  <br>
+<br>
 
 
 [![vkaudioposter_Console](https://github-readme-stats.vercel.app/api/pin/?username=rhiskey&repo=vkaudioposter_Console&show_icons=true&theme=onedark)](https://github.com/rhiskey/vkaudioposter_Console)
@@ -209,31 +209,15 @@ Our products:
 
 ###
 
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=node&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ASPNET-informational?style=flat&logo=aspnet&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Entity-Framework-informational?style=flat&logo=entityframework&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
-
-###
  
 <details>
-<summary>More Skills</summary>
-
-</details>
+<summary>Collaboration</summary>
 
 - 🌱 Currently learning C++, Vulkan, UE5, SwiftUI;
 - 👯 Looking to collaborate in any commercial project.
--  📫 Contact us: [CyberKoala Calls](https://calls.cyberkoala.ru/)
+- 📫 Contact us: [CyberKoala Calls](https://calls.cyberkoala.ru/)
+
+</details>
 
 
   <p align="center">
