@@ -2,7 +2,7 @@
 
 Game development tutor and author.
 
-[![My Skills](https://skillicons.dev/icons?i=apple,bsd,c,cs,cpp,cmake,docker,electron,express,git,go,godot,html,java,js,kubernetes,latex,laravel,lua,astro,blender,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,bsd,c,cs,cpp,cmake,docker,electron,express,git,go,godot,html,java,js,kubernetes,latex,laravel,lua,astro,blender,&perline=10)](https://skillicons.dev)
 
 
 Our products:
